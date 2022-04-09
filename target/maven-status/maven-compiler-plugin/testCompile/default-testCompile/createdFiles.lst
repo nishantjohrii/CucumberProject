@@ -1,0 +1,4 @@
+stepDefinition\TestRunner.class
+stepDefinition\LoginSteps.class
+stepDefinition\CalculatorSteps.class
+stepDefinition\BaseClass.class
